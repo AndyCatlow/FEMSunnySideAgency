@@ -1,0 +1,31 @@
+/*-------------------*/
+/* custom properties */
+/*-------------------*/
+
+:root {
+  /* primary colors */
+  --clr-prm-red: hsl(7, 99%, 70%);
+  --clr-prm-yellow: hsl(51, 100%, 49%);
+  --clr-prm-cyan: hsl(167, 40%, 24%);
+  --clr-prm-blue: hsl(198, 62%, 26%);
+  --clr-prm-cyan-mod: hls(168, 34%, 41%);
+
+  /* neutral colors */
+  --clr-ntr-blue: hsl(212, 27%, 19%);
+  --clr-ntr-vdark-blue-gray: hsl(213, 9%, 39%);
+  --clr-ntr-dark-blue-gray: hsl(232, 10%, 55%);
+  --clr-blue-gray: hsl(210, 4%, 67%);
+  --clr-ntr-white: hsl(0, 0%, 100%);
+}
+
+/* ----- */
+/* reset */
+/* ----- */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
