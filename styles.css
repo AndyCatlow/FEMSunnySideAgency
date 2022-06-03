@@ -16,6 +16,14 @@
   --clr-ntr-dark-blue-gray: hsl(232, 10%, 55%);
   --clr-blue-gray: hsl(210, 4%, 67%);
   --clr-ntr-white: hsl(0, 0%, 100%);
+
+  /*  typography */
+  --fw-600: 600;
+  --fw-700: 700;
+  --fw-900: 900;
+
+  --ff-barlow: "Barlow", sans-serif;
+  --ff-fraunces: "Fraunces", serif;
 }
 
 /* ----- */
