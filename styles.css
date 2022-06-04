@@ -241,3 +241,35 @@ p {
   font-size: 0.9em;
   color: var(--clr-blue-gray);
 }
+
+/* ------------------- */
+/* small image gallery */
+/* ------------------- */
+
+.image-banner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.small-square-img {
+  width: 50%;
+  aspect-ratio: 1;
+  background-size: cover;
+  background-position: center;
+}
+
+.sqr-img-milk {
+  background-image: url("./images/mobile/image-gallery-milkbottles.jpg");
+}
+
+.sqr-img-orange {
+  background-image: url("./images/mobile/image-gallery-orange.jpg");
+}
+
+.sqr-img-cone {
+  background-image: url("./images/mobile/image-gallery-cone.jpg");
+}
+
+.sqr-img-sugar {
+  background-image: url("./images/mobile/image-gallery-sugar-cubes.jpg");
+}
