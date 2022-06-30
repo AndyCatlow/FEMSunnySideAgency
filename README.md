@@ -30,7 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./desktopview.png)
-![](./mobileview.png)
+![](./mobileview1.jpg)
 
 ### Links
 
